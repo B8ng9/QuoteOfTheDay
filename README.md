@@ -16,7 +16,7 @@ The project is organized into three main components:
 - **`src/main`**: Contains all Java source files, including the main app logic and services.
 - **`resources/database`**: Holds the SQLite database for storing saved quotes.
   
-*QuoteApp/
+QuoteApp/
 ├── src/
 │   ├── main/
 │   │   ├── App.java            # Main application entry point
@@ -29,8 +29,7 @@ The project is organized into three main components:
 │   └── database/
 │       └── quotes.db           # SQLite database
 └── build.gradle                # Build file for JavaFX, SQLite, and dependencies
-*`build.gradle`**: Configuration file for managing dependencies and build settings.
-  
+
 
 ## Installation
 
