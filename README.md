@@ -15,7 +15,7 @@ This project is a simple JavaFX application that displays an inspiring quote eve
 The project is organized into three main components:
 - **`src/main`**: Contains all Java source files, including the main app logic and services.
 - **`resources/database`**: Holds the SQLite database for storing saved quotes.
-- **'build.gradle'**: Configuration file for managing dependencies and build settings.
+- **build.gradle**: Configuration file for managing dependencies and build settings.
   
 QuoteApp/
 ├── src/
